@@ -6,7 +6,7 @@ import * as directives from 'vuetify/directives'
 import {md3} from 'vuetify/blueprints';
 
 const vuetify = createVuetify({
-    blueprints: md3,
+    blueprint: md3,
     components,
     directives,
 })
